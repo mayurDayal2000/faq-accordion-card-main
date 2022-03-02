@@ -27,7 +27,7 @@
   width: 100%;
   min-height: 100vh;
   padding: 2.4rem 1.5rem;
-  background-image: linear-gradient(var(--soft_blue), var(--soft_violet));
+  background-image: linear-gradient(var(--soft_violet), var(--soft_blue));
   display: grid;
   place-content: center;
   padding-top: 9.5rem;
@@ -137,7 +137,7 @@ section p {
 }
 
 .attribution strong {
-  color: var(--soft_blue);
+  color: #222;
 }
 
 .left-illustration {
