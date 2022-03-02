@@ -33,7 +33,7 @@ Users should be able to:
 ## Links
 
 - Solution URL: [https://github.com/mayurDayal2000/faq-accordion-card-main](https://github.com/mayurDayal2000/faq-accordion-card-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://mayurdayal2000.github.io/faq-accordion-card-main/](https://mayurdayal2000.github.io/faq-accordion-card-main/)
 
 
 ## Built with
